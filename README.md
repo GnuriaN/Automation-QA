@@ -35,7 +35,8 @@ Automation QA Engineer - минимум того, что должен знать
     1. [ ] тест-план
     2. [ ] тест-кейсы
         1. [x] Что такое тест-кейс: https://youtu.be/NsOAvwMjgzY
-        2. [x] Как оформлять предварительные шаги тест-кейса: https://youtu.be/dbT77qs_Axw
+        2. [x] Как оформлять название тест-кейса: https://youtu.be/wqdTZTDc8ng
+        3. [x] Как оформлять предварительные шаги тест-кейса: https://youtu.be/dbT77qs_Axw
     3. [x] чек-листы (Общее видео): https://youtu.be/UOhg7moss9U
         1. [x] Что такое чек-лист https://youtu.be/0B8n-wKoFbc
         2. [x] Когда применять чек-листы https://youtu.be/3uPCGF7koWY
