@@ -42,9 +42,10 @@ Automation QA Engineer - минимум того, что должен знать
         1. [x] Что такое чек-лист https://youtu.be/0B8n-wKoFbc
         2. [x] Когда применять чек-листы https://youtu.be/3uPCGF7koWY
         3. [x] Плюсы и минусы чек-листов https://youtu.be/zt8TyItf_Rg
-        4. [x] Как оформлять чек-лист https://youtu.be/IDxVo92BplQ
-        5. [x] Результат в чек-листе https://youtu.be/H--mIO2ieHc
-        6. [x] Примеры в чек-листе https://youtu.be/2jPx69KzcJU
+        4. [x] Описание проверки в чек-листе: https://youtu.be/Q4NkGhaeiNY
+        5. [x] Как оформлять чек-лист https://youtu.be/IDxVo92BplQ
+        6. [x] Результат в чек-листе https://youtu.be/H--mIO2ieHc
+        7. [x] Примеры в чек-листе https://youtu.be/2jPx69KzcJU
 - [ ] Оценка стоимости бага и приоритизация
 - [ ] Научимся работать с багами, составлять баг-репорты, пользоваться баг-трекером
     1. [ ] Баг трекинг 1: Что такое баг-трекинг https://youtu.be/Hc-AEh0ELk4
@@ -171,6 +172,7 @@ Automation QA Engineer - минимум того, что должен знать
 - [ ] Как взаимодействовать с заказчиками
 - [ ] Выполнение проектов на бирже
 
-
+## Всяко разное, полезное и не очень, но точно интересное
+- [ ] Книги и курсы для ручного тестировщика: https://youtu.be/6SD-XkKYevs
 
 Добавил ссылки на видео от [Ольга Назина (Киселёва)](https://software-testing.ru/edu/1-schedule/56-school)
