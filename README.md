@@ -38,6 +38,7 @@ Automation QA Engineer - минимум того, что должен знать
         2. [x] Как оформлять название тест-кейса: https://youtu.be/wqdTZTDc8ng
         3. [x] Как оформлять предварительные шаги тест-кейса: https://youtu.be/dbT77qs_Axw
         4. [x] Как оформлять шаги тест-кейса: https://youtu.be/dwF8T1B2sbs
+        5. [x] Ожидаемый результат в тест-кейсе: один или много: https://youtu.be/lWVNXbV6AQI
     3. [x] чек-листы (Общее видео): https://youtu.be/UOhg7moss9U
         1. [x] Что такое чек-лист https://youtu.be/0B8n-wKoFbc
         2. [x] Когда применять чек-листы https://youtu.be/3uPCGF7koWY
