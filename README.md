@@ -38,6 +38,7 @@ Automation QA Engineer - минимум того, что должен знать
         2. [x] Как оформлять название тест-кейса: https://youtu.be/wqdTZTDc8ng
         3. [x] Как оформлять предварительные шаги тест-кейса: https://youtu.be/dbT77qs_Axw
         4. [x] Как оформлять шаги тест-кейса: https://youtu.be/dwF8T1B2sbs
+            1. [x] Доп поля в тест-кейсе: https://youtu.be/Z1rpMr0EbX4 
         5. [x] Ожидаемый результат в тест-кейсе: один или много: https://youtu.be/lWVNXbV6AQI
             1. [x]  ФР или ОР — что писать в тест-кейсе: https://youtu.be/IuMZ5orrPDs
         6. [x] Как оформлять результат тест-кейса: https://youtu.be/ehkXOU2X_wE
