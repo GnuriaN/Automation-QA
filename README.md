@@ -51,6 +51,8 @@ Automation QA Engineer - минимум того, что должен знать
             1. [x] Результат в чек-листе https://youtu.be/H--mIO2ieHc
         6. [x] Примеры в чек-листе: https://youtu.be/2jPx69KzcJU
         7. [x] Стандартные ошибки при оформлении тест-кейса :https://youtu.be/8yoA5Wg5xvE
+    4. [ ] Test Suite:
+        1. [ ] Test suite VS test plan — в чем отличие: https://youtu.be/L6eGaKFFgpg
 - [ ] Оценка стоимости бага и приоритизация
 - [ ] Научимся работать с багами, составлять баг-репорты, пользоваться баг-трекером
     1. [ ] Баг трекинг 1: Что такое баг-трекинг https://youtu.be/Hc-AEh0ELk4
