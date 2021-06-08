@@ -42,6 +42,7 @@ Automation QA Engineer - минимум того, что должен знать
         5. [x] Ожидаемый результат в тест-кейсе: один или много: https://youtu.be/lWVNXbV6AQI
             1. [x]  ФР или ОР — что писать в тест-кейсе: https://youtu.be/IuMZ5orrPDs
         6. [x] Как оформлять результат тест-кейса: https://youtu.be/ehkXOU2X_wE
+        7. [x] Плюсы и минусы тест-кейсов: https://youtu.be/zdNfbOcPszg
     3. [x] чек-листы (Общее видео): https://youtu.be/UOhg7moss9U
         1. [x] Что такое чек-лист: https://youtu.be/0B8n-wKoFbc
         2. [x] Когда применять чек-листы: https://youtu.be/3uPCGF7koWY
@@ -52,7 +53,7 @@ Automation QA Engineer - минимум того, что должен знать
         6. [x] Примеры в чек-листе: https://youtu.be/2jPx69KzcJU
         7. [x] Стандартные ошибки при оформлении тест-кейса :https://youtu.be/8yoA5Wg5xvE
     4. [ ] Test Suite:
-        1. [ ] Test suite VS test plan — в чем отличие: https://youtu.be/L6eGaKFFgpg
+        1. [x] Test suite VS test plan — в чем отличие: https://youtu.be/L6eGaKFFgpg
 - [ ] Оценка стоимости бага и приоритизация
 - [ ] Научимся работать с багами, составлять баг-репорты, пользоваться баг-трекером
     1. [ ] Баг трекинг 1: Что такое баг-трекинг https://youtu.be/Hc-AEh0ELk4
